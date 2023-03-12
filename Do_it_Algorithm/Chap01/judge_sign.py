@@ -6,3 +6,4 @@ elif n<0:
     print(f'{n}은 음수 입니다.')
 else:
     print(f'{n}은 0 입니다.')
+
