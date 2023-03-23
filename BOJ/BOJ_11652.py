@@ -38,6 +38,7 @@ for i in range(count):
     else:
         inputList.append(a)
         input_nums[a] = 1
+
 inputList.sort()
 for i in range(len(inputList)):
     if numCount < input_nums.get(inputList[i]):
